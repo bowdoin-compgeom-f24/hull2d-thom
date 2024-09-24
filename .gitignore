@@ -1,3 +1,4 @@
 *.o
 .vscode
 hull2d
+.DS_Store

@@ -25,7 +25,7 @@ LDFLAGS+=  -lGL -lglut -lrt -lGLU -lX11 -lm  -lXmu -lXext -lXi
 endif
 
 
-CC = g++ -std=c++11 -O3 -Wall $(INCLUDEPATH)
+CC = g++ -std=c++20 -O3 -Wall $(INCLUDEPATH)
 
 
 PROGS = hull2d
