@@ -84,7 +84,7 @@ const int WINDOWSIZE = 500;
    function.
 */
 int NB_INIT_CHOICES = 6; 
-int  POINT_INIT_MODE = 5; //the first inititalizer
+int  POINT_INIT_MODE = 0; //the first inititalizer
 
 
 
