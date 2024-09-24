@@ -115,10 +115,10 @@ void graham_scan(vector<point2d>& pts, vector<point2d>& hull ) {
     hull.push_back(pts[i]);
   }
 
-  for (int i = 0; i < hull.size(); i++)
-  {
-    printf("Point: (%d, %d)\n", hull[i].x, hull[i].y);
-  }
+  // for (int i = 0; i < hull.size(); i++)
+  // {
+  //   printf("Point: (%d, %d)\n", hull[i].x, hull[i].y);
+  // }
   
   
   printf("hull2d (graham scan): end\n"); 
