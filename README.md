@@ -61,6 +61,3 @@ The colinear case constitutes a degeneracy for the algorithm. I handled this by 
 ## (6) Time you spent in: Thinking; Programming; Testing; Documenting; Total
 
 I choose to start writing the code after reading the project for around an hour. As I am writing the code, I am also testing it by constantly recompiling and run the test cases. I spent around 2 hours writing the code and 1 hour testing it. I spent around 30 minutes documenting the code. After making sure my code passes all four defalut case, I spend around 2 hours to make my two initializers (1 and 2). In total, I spent around 6 hours on this project.
-
-## (7) Brief reflection prompts (you don’t need to address all): how challenging did you find this project? what did you learn by doing this project? What did you wish you did differently? If you worked as a team, how did that go? What would you like to explore further?
-
